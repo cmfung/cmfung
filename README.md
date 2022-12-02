@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/mongodb-4169E1?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4169E1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/aws-4169E1?style=for-the-badge&logo=amazonaws&logoColor=white">
-
 </ div>
   
 <!--
