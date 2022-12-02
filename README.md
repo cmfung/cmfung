@@ -3,6 +3,9 @@
 <div>
   <img src="https://img.shields.io/badge/linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white">
 </ div>
+<p>Hello! I'm a software engineer with a background in Accounting and Finance. I have experience in full stack development in an AGILE environment. I'm always looking to grwo and improve my skillset, both personally and professionally.</ p>
+<p>Feel free to add me on LinkedIn and send me a message, I'd love to connect!</ p>
+<h3>Skills</ h3>
 <div>
   <img src="https://img.shields.io/badge/javascript-4169E1?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/react-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
