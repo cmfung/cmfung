@@ -1,7 +1,7 @@
 ### Hi there, I'm Connor Fung 👋
 
 <div>
-  LinkedIn
+  <img src="https://img.shields.io/badge/linkedin-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </ div>
 <div>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
