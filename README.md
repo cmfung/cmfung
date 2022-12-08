@@ -1,7 +1,7 @@
 ### Hi there, I'm Connor Fung 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/connor-fung/">
+  <a href="https://www.linkedin.com/in/connor-fung/" />
   <img src="https://img.shields.io/badge/linkedin-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </ div>
 <p>Hello! I'm a software engineer with a background in Accounting and Finance. I have experience in full stack development in an AGILE environment. I'm always looking to grow and improve my skillset, both personally and professionally.</ p>
